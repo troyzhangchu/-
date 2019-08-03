@@ -16,16 +16,16 @@
 <space><space>探索了实现 One Shot Learning 的两种方法。
 
   
-[**4.“金融经济大数据挖掘”期中项目论文：金大期中PJ.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/金大期中PJ.pdf)
+[**4.“金融经济大数据挖掘”期中项目论文：FBD_midtermPJ.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/FBD_midtermPJ.pdf)
 
 <space><space>探索了利用 Google Trends 作为情绪指标加入ARIMAX模型，对经济数据如特斯拉销量，进行预测。
 
   
-[**5.”金融经济大数据挖掘“期末项目论文：金大第3组期末报告.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/金大第3组期末报告.pdf)
+[**5.”金融经济大数据挖掘“期末项目论文：FBD_finalPJ.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/FBD_finalPJ.pdf)
 
 <space><space>尝试利用多个统计模型和神经网络模型对缺失的燃煤数据进行补全。
 
   
-[**6.万商项目组，客户流失预警模型：流失模型脱敏.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/流失模型脱敏.pdf)
+[**6.万商项目组，客户流失预警模型（已脱敏）：AlarmingModel.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/AlarmingModel.pdf)
 
 <space><space>利用大量商户基本信息数据和交易流水数据，对商户进行画像，并尝试建立统计模型对可能流失的商户进行预警。
