@@ -1,7 +1,7 @@
 
 # 课程项目论文
 
-[**1.“人工智能”期末大作业论文：AI_final_report.pdf&**](https://github.com/troyzhangchu/Projects-/blob/master/AI_final_report.pdf)
+[**1.“人工智能”期末大作业论文：AI_final_report.pdf**](https://github.com/troyzhangchu/Projects-/blob/master/AI_final_report.pdf)
 
 <space><space> 关于五子棋Gomoku AI的算法介绍和实现过程。
  
